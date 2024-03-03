@@ -15,7 +15,8 @@
         "--socket=pulseaudio",
         "--filesystem=xdg-run/pipewire-0",
         "--filesystem=home",
-        "--device=all"
+        "--device=all",
+        "--talk-name=org.freedesktop.Flatpak"
     ],
     "cleanup-commands": [
         "/app/cleanup-BaseApp.sh"
@@ -195,8 +196,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/FrancescoCeruti/linux-show-player.git",
-                    "tag": "v0.6",
-                    "commit": "1edcedc5e0599fe4443e0cd1ee64e3a9dddbe5de"
+                    "tag": "v0.6.1",
+                    "commit": "3ab209bdc6067be609581efe5bb8ad019af51521"
                 }
             ]
         }
