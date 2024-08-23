@@ -196,8 +196,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/FrancescoCeruti/linux-show-player.git",
-                    "tag": "v0.6.3",
-                    "commit": "d8baef5f6a511de306aca9de045491c9d91abefb"
+                    "tag": "v0.6.4",
+                    "commit": "65fcd8219c2f9209308d2034cd58aa204210e7fb"
                 }
             ]
         }
